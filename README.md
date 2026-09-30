@@ -1,3 +1,5 @@
+<img width="640" height="320" alt="blackcat-github-banner" src="https://github.com/user-attachments/assets/21d0e1eb-69f7-4a6b-8658-7bf2ff821e2f" />
+
 # BlackCat Launcher 🐈‍⬛
 
 A Minecraft launcher for Windows. Official accounts, fully separate instance management, a built-in mod store, local server hosting, and much more — all in one app.
